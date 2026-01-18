@@ -7,7 +7,7 @@ const YOUR_NAME = "The Annoying Presence";
 // Final conclusion page personalization
 const LTCA_HER_NAME = "Madam Mystery";
 const LTCA_YOUR_NAME = "The Annoying Presence";
-const LTCA_TYPE_LINE = "You’re loud on the outside… and honestly, that’s your superpower.";
+const LTCA_TYPE_LINE = "You’re vibrant on the outside… and honestly, that’s your superpower.";
 
 // =========================
 // Helpers
@@ -412,4 +412,5 @@ function typewriter(el, text, speed=34){
 
 // Initialize letter on load (safe)
 renderLetterStep();
+
 
